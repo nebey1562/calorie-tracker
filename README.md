@@ -1,16 +1,23 @@
-# calorie_tracker
+# Calorie Tracker
 
-A new Flutter project.
+A simple calorie tracker that calculates daily caloric recommendations based on user inputs: weight, height, and age. This project aims to help users understand their caloric needs and manage their diets effectively.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Input your weight, height, and age
+- Calculate daily caloric intake recommendations
+- User-friendly interface
+- Lightweight and fast
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- ObjectBox for data persistence
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/calorie-tracker.git
